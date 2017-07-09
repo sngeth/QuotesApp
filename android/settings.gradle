@@ -1,0 +1,3 @@
+rootProject.name = 'QuotesApp'
+
+include ':app'
